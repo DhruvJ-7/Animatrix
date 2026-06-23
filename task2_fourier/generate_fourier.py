@@ -8,7 +8,7 @@ Write a complete Manim animation scene in Python that demonstrates
 Fourier Series Decomposition of a square wave.
 Requirements:
 - Show first 5 sine wave harmonics
-- Each harmonic in a different color
+- Each harmonic in a different co
 - Show cumulative sum updating step by step
 - Add proper axes with labels
 - Add title Fourier Series Decomposition
